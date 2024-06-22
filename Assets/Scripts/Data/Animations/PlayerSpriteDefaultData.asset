@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242209f8acefd2f41992e02fb15e77a0, type: 3}
+  m_Name: PlayerSpriteDefaultData
+  m_EditorClassIdentifier: 
+  standardRenderer: {fileID: 304889748, guid: daf61e60dec14e24882af57626507773, type: 3}
+  sprites:
+  - {fileID: 1537141328, guid: daf61e60dec14e24882af57626507773, type: 3}
+  - {fileID: -1748840518, guid: daf61e60dec14e24882af57626507773, type: 3}
+  - {fileID: 1396530685, guid: daf61e60dec14e24882af57626507773, type: 3}
+  - {fileID: 1506963349, guid: daf61e60dec14e24882af57626507773, type: 3}
+  - {fileID: -1842059766, guid: daf61e60dec14e24882af57626507773, type: 3}
+  - {fileID: 582962317, guid: daf61e60dec14e24882af57626507773, type: 3}

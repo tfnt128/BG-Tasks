@@ -4,12 +4,19 @@ using UnityEngine;
 public class PlayerInput : MonoBehaviour, IMovementInput
 {
     public Vector2 MovementInputVector { get; private set; }
+    private PlayerInventoryManager inventoryController;
     public event Action OnInteractEvent;
+
+    private void Start() 
+    {
+        inventoryController = GetComponent<PlayerInventoryManager>();
+    }
 
     private void Update()
     {
         GetInteractInput();
         GetMovementInput();
+        GetInventoryToggleInput();
     }
 
     private void GetMovementInput()
@@ -20,9 +27,16 @@ public class PlayerInput : MonoBehaviour, IMovementInput
 
     private void GetInteractInput()
     {
-        if (Input.GetAxisRaw("Fire1") > 0)
+        if (Input.GetKeyDown(KeyCode.E))
         {
             OnInteractEvent?.Invoke();
+        }
+    }
+    private void GetInventoryToggleInput()
+    {
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            inventoryController.OpenInventory();
         }
     }
 }

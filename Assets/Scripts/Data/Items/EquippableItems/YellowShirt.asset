@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16857a3701366af409c5c3513f520b01, type: 3}
+  m_Name: YellowShirt
+  m_EditorClassIdentifier: 
+  <ItemImage>k__BackingField: {fileID: -814740556, guid: 64c33cef45f35ff4a8d577550bc2bb4e, type: 3}
+  ItemName: YellowShirt
+  ItemDescription: A beautiful yellow shirt perfect for summers!
+  itemValue: 30
+  equipSpriteData: {fileID: 11400000, guid: d59e9c1e4f48e88498ee49ad01784172, type: 2}

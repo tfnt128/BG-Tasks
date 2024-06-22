@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 3554a25e03b69de4aafa6eb92dead39e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueShirtInventory_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 468
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca2fd05de16866479296efa267b7efe
+      internalID: 1672185674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlueShirtInventory_7: 370321097
+      BlueShirtInventory_60: 451062925
+      BlueShirtInventory_19: -1431143672
+      BlueShirtInventory_39: -1337753526
+      BlueShirtInventory_36: 1453258231
+      BlueShirtInventory_43: -1675321341
+      BlueShirtInventory_40: 197775544
+      BlueShirtInventory_61: -1723743839
+      BlueShirtInventory_53: 50374086
+      BlueShirtInventory_51: -1523588652
+      BlueShirtInventory_13: 17669949
+      BlueShirtInventory_49: -1001103502
+      BlueShirtInventory_45: 604325015
+      BlueShirtInventory_34: 811036762
+      BlueShirtInventory_35: -92902336
+      BlueShirtInventory_27: -87472779
+      BlueShirtInventory_3: 7574558
+      BlueShirtInventory_20: 446523188
+      BlueShirtInventory_41: 2120042998
+      BlueShirtInventory_10: -548350164
+      BlueShirtInventory_38: -200358730
+      BlueShirtInventory_22: 1250383441
+      BlueShirtInventory_15: 2096495149
+      BlueShirtInventory_31: 2114924579
+      BlueShirtInventory_33: -300518182
+      BlueShirtInventory_37: -1251250543
+      BlueShirtInventory_44: 2088948271
+      BlueShirtInventory_4: -1168962088
+      BlueShirtInventory_54: 2122334507
+      BlueShirtInventory_59: 2064867436
+      BlueShirtInventory_24: -751762984
+      BlueShirtInventory_6: 1154471887
+      BlueShirtInventory_18: -736060280
+      BlueShirtInventory_8: -1010180367
+      BlueShirtInventory_26: -1544727151
+      BlueShirtInventory_23: -282730563
+      BlueShirtInventory_46: -7995314
+      BlueShirtInventory_57: 588115139
+      BlueShirtInventory_11: 1792212514
+      BlueShirtInventory_58: -384059435
+      BlueShirtInventory_28: 1538931374
+      BlueShirtInventory_16: -281419072
+      BlueShirtInventory_21: 1860990481
+      BlueShirtInventory_50: 1462741726
+      BlueShirtInventory_25: -2074241303
+      BlueShirtInventory_5: -1328793757
+      BlueShirtInventory_12: 840526213
+      BlueShirtInventory_42: 1718870592
+      BlueShirtInventory_47: -1304036190
+      BlueShirtInventory_0: 1672185674
+      BlueShirtInventory_30: 677571984
+      BlueShirtInventory_9: 122506348
+      BlueShirtInventory_1: 1539057149
+      BlueShirtInventory_29: 172938857
+      BlueShirtInventory_14: -415988827
+      BlueShirtInventory_62: 852089071
+      BlueShirtInventory_52: -1966365780
+      BlueShirtInventory_32: 24158689
+      BlueShirtInventory_17: 1744227152
+      BlueShirtInventory_2: -745934575
+      BlueShirtInventory_55: 1690368404
+      BlueShirtInventory_48: 1708354880
+      BlueShirtInventory_56: 995939918
+      BlueShirtInventory_63: -791519023
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

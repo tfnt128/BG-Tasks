@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 242209f8acefd2f41992e02fb15e77a0, type: 3}
+  m_Name: BlueShirtData
+  m_EditorClassIdentifier: 
+  standardRenderer: {fileID: 2030995391, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  sprites:
+  - {fileID: 957234522, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  - {fileID: -153600844, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  - {fileID: 1285843700, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  - {fileID: -1542345367, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  - {fileID: -1882335712, guid: 6bf7783b96d98714183635b646546311, type: 3}
+  - {fileID: 786673401, guid: 6bf7783b96d98714183635b646546311, type: 3}
